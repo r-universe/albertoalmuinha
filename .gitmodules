@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DSpoty"]
+	path = DSpoty
+	url = https://github.com/albertoalmuinha/dspoty
+	shallow = true
+	registered = true
+[submodule "rgenius"]
+	path = rgenius
+	url = https://github.com/albertoalmuinha/rgenius
+	shallow = true
+	registered = true
+[submodule "ROMDB"]
+	path = ROMDB
+	url = https://github.com/albertoalmuinha/romdb
+	shallow = true
+	registered = true
+[submodule "shinyrecipes"]
+	path = shinyrecipes
+	url = https://github.com/albertoalmuinha/shinyrecipes
+	shallow = true
+	registered = true
