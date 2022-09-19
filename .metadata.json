@@ -1,9 +1,5 @@
 [
   {
-    "package": "DSpoty",
-    "oncran": true
-  },
-  {
     "package": "rgenius",
     "oncran": true
   },
