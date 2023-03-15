@@ -1,9 +1,5 @@
 [
   {
-    "package": "DSpoty",
-    "oncran": true
-  },
-  {
     "package": "rgenius",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "shinyrecipes",
+    "oncran": true
+  },
+  {
+    "package": "DSpoty",
     "oncran": true
   }
 ]
