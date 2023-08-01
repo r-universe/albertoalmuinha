@@ -5,12 +5,12 @@
 [submodule "DSpoty"]
 	path = DSpoty
 	url = https://github.com/albertoalmuinha/dspoty
-[submodule "rgenius"]
-	path = rgenius
-	url = https://github.com/albertoalmuinha/rgenius
 [submodule "ROMDB"]
 	path = ROMDB
 	url = https://github.com/albertoalmuinha/romdb
+[submodule "rgenius"]
+	path = rgenius
+	url = https://github.com/albertoalmuinha/rgenius
 [submodule "shinyrecipes"]
 	path = shinyrecipes
 	url = https://github.com/albertoalmuinha/shinyrecipes
